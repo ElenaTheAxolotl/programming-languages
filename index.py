@@ -10,6 +10,9 @@
 #animal = "dog"
 #print("Now I have a", animal)
 
-animal = input("What is your favorite animal? ")
-animal = "dog"
-print("You said your favorite animal is", animal)
+#animal = input("What is your favorite animal? ")
+#animal = "dog"
+#print("You said your favorite animal is", animal)
+
+first_name = input("What is your first name? ")
+print("Nice to meet you,",lastname)
