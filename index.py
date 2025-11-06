@@ -14,5 +14,10 @@
 #animal = "dog"
 #print("You said your favorite animal is", animal)
 
-first_name = input("What is your first name? ")
-print("Nice to meet you,",lastname)
+#first_name = input("What is your first name? ")
+#print("Nice to meet you,",lastname)
+
+name = input("What is your name? ")
+print(name)
+print(name)
+print(name)
