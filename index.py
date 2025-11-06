@@ -5,7 +5,11 @@
 #color = "blue
 #print(color)
 
-animal = "cat"
-print("I have a", animal)
+#animal = "cat"
+#print("I have a", animal)
+#animal = "dog"
+#print("Now I have a", animal)
+
+animal = input("What is your favorite animal? ")
 animal = "dog"
-print("Now I have a", animal)
+print("You said your favorite animal is", animal)
