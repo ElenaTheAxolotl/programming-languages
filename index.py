@@ -17,7 +17,13 @@
 #first_name = input("What is your first name? ")
 #print("Nice to meet you,",lastname)
 
-name = input("What is your name? ")
-print(name)
-print(name)
-print(name)
+#name = input("What is your name? ")
+#print(name)
+#print(name)
+#print(name)
+
+#guess = "5"
+#if guess == "5":
+#    print("You got it!")
+#else:
+#    print("Ruh roh.")
