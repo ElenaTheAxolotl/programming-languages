@@ -28,6 +28,11 @@
 #else:
 #    print("Ruh roh.")
 
-color = "blue"
-if color == "Blue":
-    print("Nice choice!")
+#color = "blue"
+#if color == "Blue":
+#    print("Nice choice!")
+
+score = 0
+if score == 0:
+    print("Start playing!")
+print("Game Over :(")
