@@ -27,3 +27,7 @@
 #    print("You got it!")
 #else:
 #    print("Ruh roh.")
+
+color = "blue"
+if color == "Blue":
+    print("Nice choice!")
