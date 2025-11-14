@@ -37,6 +37,11 @@
 #    print("Start playing!")
 #print("Game Over :(")
 
-number = input("Enter a number: ")
-numberi = int(number)
-print(numberi + 1)
+#number = input("Enter a number: ")
+#numberi = int(number)
+#print(numberi + 1)
+
+price = "10.5"
+pricef = float(price)
+total = pricef + 5
+print(total)
