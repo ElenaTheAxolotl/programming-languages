@@ -41,7 +41,10 @@
 #numberi = int(number)
 #print(numberi + 1)
 
-price = "10.5"
-pricef = float(price)
-total = pricef + 5
-print(total)
+#price = "10.5"
+#pricef = float(price)
+#total = pricef + 5
+#print(total)
+
+is_raining = True
+print(is_raining)
