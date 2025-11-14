@@ -32,7 +32,11 @@
 #if color == "Blue":
 #    print("Nice choice!")
 
-score = 0
-if score == 0:
-    print("Start playing!")
-print("Game Over :(")
+#score = 0
+#if score == 0:
+#    print("Start playing!")
+#print("Game Over :(")
+
+number = input("Enter a number: ")
+numberi = int(number)
+print(numberi + 1)
