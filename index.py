@@ -52,5 +52,9 @@
 #for count in range(2):
 #    print("Hello!")
 
-for number in range(1, 6):
-    print(number)
+#for number in range(1, 6):
+#    print(number)
+
+for question_number in range(3):
+    answer = input("Your answer: ")
+    print("You said:", answer)
