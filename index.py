@@ -46,5 +46,8 @@
 #total = pricef + 5
 #print(total)
 
-is_raining = True
-print(is_raining)
+#is_raining = True
+#print(is_raining)
+
+for count in range(2):
+    print("Hello!")
