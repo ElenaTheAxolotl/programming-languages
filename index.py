@@ -49,5 +49,8 @@
 #is_raining = True
 #print(is_raining)
 
-for count in range(2):
-    print("Hello!")
+#for count in range(2):
+#    print("Hello!")
+
+for number in range(1, 6):
+    print(number)
